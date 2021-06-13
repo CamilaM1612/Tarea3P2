@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Matriz
+comment1.params=tamanio
+comment1.target=Matriz(int)
+comment2.params=
+comment2.target=void\ recorrido()
+comment2.text=Un\ metodo\ que\ realice\ el\ recorrido\ de\ caracol\ en\ la\ matriz
+comment3.params=
+comment3.target=void\ diagonal()
+comment3.text=\ metodo\ que\ imprime\ la\ diagonal\ principal\ \r\ny\ secundaria\ en\ la\ matriz
+comment4.params=
+comment4.target=void\ imprimirMatriz()
+numComments=5
